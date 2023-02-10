@@ -1,2 +1,2 @@
 # Machine-Learning-Excercise
-coding to achieve machine learning specialization (homework of MachineLearning by Andrew)
+coding to achieve Machine Learning Specializatio (homework of MachineLearning by Andrew)
